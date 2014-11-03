@@ -1,0 +1,29 @@
+CR No.		Date			MOM No		Date		Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1310001	03-10-2013		M70		29-10-2013	NSA 2400_TVM Firmware update
+
+ 1310002	07-10-2013		M70		29-10-2013	NSA2400 MX_KOC Firmware update
+
+ 1310003	07-10-2013		M70		29-10-2013	MSM710 Wireless controller and APs Firmware Update
+
+ 1310004	07-10-2013		M70		29-10-2013	To add AGERO VPN Remote subnet
+
+ 1310005	17-10-2013		M70		29-10-2013	To create a VPN tunnel to client site AGERO Dallas
+
+ 1310006 	27-10-2013		M70		29-10-2013	To add security services exception for FASTER VPN IP
+
+ 1310007	31-10-2013		M71		14-11-2013	To Publish AFL DLF DB Server
+
+ 1402008	18-02-2014		M78		07-03-2014	To Publish Scigenome server
+
+ 1406009    	28-06-2014		M84		03-07-2014	To Publish Accel Travel Application
+		
+ 1407010	01-07-2014		M84		03-07-2014	 Exception for HP VPN Gateway in security services
+
+ 1407011  	04-07-2014		M85		10-07-2014	To Publish AVDR Application Server
+
+ 1408012	04-08-2014		M87		14-08-2014	To add additional catogories in block list of CFS
+		
+ 1409013	10-09-2014		M88		18-09-2014	To update Firmware in Cisco switches
+				
+ 1409013      	15-09-2014		M88		18-09-2014	To update Firmware in HP Procurve Swicthes
